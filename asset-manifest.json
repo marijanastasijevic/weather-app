@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.2805b156.css",
+    "main.js": "/weather-app/static/js/main.c8623a0c.js",
+    "static/media/background.jpg": "/weather-app/static/media/background.56ccef5dbd5b538923ab.jpg",
+    "index.html": "/weather-app/index.html",
+    "main.2805b156.css.map": "/weather-app/static/css/main.2805b156.css.map",
+    "main.c8623a0c.js.map": "/weather-app/static/js/main.c8623a0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2805b156.css",
+    "static/js/main.c8623a0c.js"
+  ]
+}
